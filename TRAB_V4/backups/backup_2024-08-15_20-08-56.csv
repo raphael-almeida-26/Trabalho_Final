@@ -1,0 +1,7 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,Ana,ana@uol.com,$2y$10$tpFIR5kcG7JGcRaDIaUK.O8vYr712B2F3LrrI6bTFmXBHhjoA6QGS,0,,"2024-07-04 16:48:08",user
+2,admin,admin@churros.com,$2y$10$P1p.i.zLdyFzdP5o3PGwlONx1Nomn4Sh6bpsN2vwJ0Gz1oHrQYv7S,0,,"2024-07-08 10:28:06",admin
+3,"ana clara",ana123@br.com,$2y$10$DuMT70Nl3sOD5s7/xXBlt.j1QuUH0Ru3IUCDyADIoIgPxdfzIJGdi,0,,"2024-07-12 15:17:26",user
+4,"Sara ",sara@gmail.com,$2y$10$.NGYymefhNTWBpDJQtMPNuRBA5DUqVzijSxwgZAlUifZBcYUFIyWi,1,,"2024-07-12 15:59:46",user
+6,bispo,bispo@teste.com,$2y$10$jHhG/AbJzV4sxs.otymR7OcA3oy0jvNPD18NKc5tPNGZhf0oUFcai,1,739925,"2024-08-15 15:03:44",user
+7,rei,rei@teste.com,$2y$10$WE.Kv2zQ2Fmvk/bzHbyevOAbqt.ztsQ1myJ1pkaFauC8Xw4byYnma,0,,"2024-08-15 15:04:48",admin
